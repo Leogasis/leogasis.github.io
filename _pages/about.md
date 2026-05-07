@@ -2,7 +2,7 @@
 lang: es
 layout: single
 title: "Acerca de Mí"
-permalink: /es/about/
+permalink: /about/
 author_profile: true
 toc: true
 toc_label: "Contenido"

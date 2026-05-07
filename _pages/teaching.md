@@ -2,7 +2,7 @@
 lang: es
 layout: single
 title: "Docencia"
-permalink: /es/teaching/
+permalink: /teaching/
 author_profile: true
 toc: true
 toc_label: "Cursos"

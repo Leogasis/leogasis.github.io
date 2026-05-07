@@ -1,28 +1,28 @@
 ---
-lang: en
+lang: es
 layout: single
-title: "Projects"
-permalink: /en/projects/
+title: "Proyectos"
+permalink: /projects/
 author_profile: true
 ---
 
-Here is a selection of my work in **Industrial Optimization**, **Artificial Intelligence**, and **Simulation**. These projects demonstrate the application of advanced quantitative methods to solve real-world industrial challenges.
+Aquí presento una selección de mi trabajo en **Optimización Industrial**, **Inteligencia Artificial** y **Simulación**. Estos proyectos demuestran la aplicación de métodos cuantitativos avanzados para resolver desafíos industriales del mundo real.
 
-## Optimization & Operations Research
+## Optimización e Investigación de Operaciones
 {% for post in site.projects %}
   {% if post.tags contains "Optimization" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-## Artificial Intelligence & Analytics
+## Inteligencia Artificial y Analítica
 {% for post in site.projects %}
   {% if post.tags contains "AI" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-## Simulation & Stochastic Systems
+## Simulación y Sistemas Estocásticos
 {% for post in site.projects %}
   {% if post.tags contains "Simulation" %}
     {% include archive-single.html %}

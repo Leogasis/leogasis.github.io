@@ -1,23 +1,15 @@
 main:
-  - title: "Language / Idioma"
-    children:
-      - title: "English"
-        url: /
-      - title: "Español"
-        url: /es/
-  - title: "Home"
+  - title: "Inicio"
     url: /
-  - title: "About"
-    url: /en/about/
-  - title: "Projects"
-    url: /en/projects/
-  - title: "Teaching"
-    url: /en/teaching/
-  - title: "Publications"
-    url: /en/publications/
-  - title: "Outreach (EN)"
-    url: /en/divulgacion/
-  - title: "Divulgación (ES)"
-    url: /es/divulgacion/
-  - title: "Contact"
-    url: /en/contact/
+  - title: "Acerca de Mí"
+    url: /about/
+  - title: "Proyectos"
+    url: /projects/
+  - title: "Docencia"
+    url: /teaching/
+  - title: "Publicaciones"
+    url: /publications/
+  - title: "Divulgación"
+    url: /divulgacion/
+  - title: "Contacto"
+    url: /contact/

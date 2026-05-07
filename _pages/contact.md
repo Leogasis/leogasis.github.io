@@ -2,7 +2,7 @@
 lang: es
 layout: single
 title: "Contacto"
-permalink: /es/contact/
+permalink: /contact/
 author_profile: true
 ---
 

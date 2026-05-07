@@ -1,14 +1,14 @@
 ---
-lang: en
+lang: es
 layout: single
-title: "Publications"
-permalink: /en/publications/
+title: "Publicaciones"
+permalink: /publications/
 author_profile: true
 toc: true
-toc_label: "Type"
+toc_label: "Tipo"
 ---
 
-## Selected Journal Articles
+## Artículos Selectos en Revistas
 
 1.  **Ibarra-Rojas, O. J., Hernández-Landa, L. G., & Ozuna, L.** (2018). "The accessibility vehicle routing problem." *Journal of Cleaner Production*.
 2.  **Litvinchev, I., Ríos-Solís, Y., Özdemir, D., & Hernández-Landa, L. G.** (2014). "Multiperiod and stochastic formulations for a closed-loop supply chain." *Journal of Computer and Systems Sciences International*.
@@ -16,8 +16,8 @@ toc_label: "Type"
 4.  **Vargas-Moreno, A., Hernández-Landa, L. G., et al.** (2018). "Application of open Jackson networks for time and costs reduction."
 5.  **Hernández-Landa, L. G., & Mata-Martínez, R. E.** (2018). "Accurate solutions for real instances of the traveling salesman problem using Google Maps APIs."
 
-## Research Projects
+## Proyectos de Investigación
 
-*   **Principal Investigator:** "Exploratory Analysis of Industry 4.0 in Companies from Nuevo León" (Funded by SEP).
-*   **Principal Investigator:** "Optimization Methods for Passenger Transportation Systems" (Funded by PRODEP).
-*   **Principal Investigator:** "Accessibility Modeling in Distribution and Location Problems" (Funded by UANL).
+*   **Investigador Principal:** "Análisis exploratorio de la Industria 4.0 en empresas de Nuevo León" (Financiado por la SEP).
+*   **Investigador Principal:** "Métodos de optimización para sistemas de transporte de pasajeros" (Financiado por PRODEP).
+*   **Investigador Principal:** "Modelado de accesibilidad en problemas de distribución y localización" (Financiado por la UANL).
