@@ -1,9 +1,11 @@
 ---
+lang: en
 layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+lang: en
 
 Here is a selection of my work in **Industrial Optimization**, **Artificial Intelligence**, and **Simulation**. These projects demonstrate the application of advanced quantitative methods to solve real-world industrial challenges.
 

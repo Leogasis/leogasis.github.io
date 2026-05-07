@@ -1,9 +1,11 @@
 ---
+lang: en
 layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+lang: en
 
 I am available for academic collaboration and industrial consulting opportunities.
 

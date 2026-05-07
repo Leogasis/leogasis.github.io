@@ -1,4 +1,10 @@
 main:
+  - title: "Language / Idioma"
+    children:
+      - title: "English"
+        url: /
+      - title: "Español"
+        url: /es/
   - title: "Home"
     url: /
   - title: "About"
@@ -9,7 +15,9 @@ main:
     url: /teaching/
   - title: "Publications"
     url: /publications/
-  - title: "Divulgación"
-    url: /divulgacion/
+  - title: "Outreach (EN)"
+    url: /en/divulgacion/
+  - title: "Divulgación (ES)"
+    url: /es/divulgacion/
   - title: "Contact"
     url: /contact/

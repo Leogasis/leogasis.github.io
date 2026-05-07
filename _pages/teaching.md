@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: single
 title: "Teaching"
 permalink: /teaching/
@@ -6,6 +7,7 @@ author_profile: true
 toc: true
 toc_label: "Courses"
 ---
+lang: en
 
 I teach a variety of graduate and undergraduate courses, emphasizing the practical application of theory through real-world case studies and projects.
 

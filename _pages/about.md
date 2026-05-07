@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: single
 title: "About Me"
 permalink: /about/
@@ -6,6 +7,7 @@ author_profile: true
 toc: true
 toc_label: "Contents"
 ---
+lang: en
 
 I am an Industrial Engineer with a PhD in Systems Engineering, specializing in the application of **optimization, simulation, and artificial intelligence** to solve complex industrial problems. My career spans over 15 years in academia and industry, bridging the gap between theoretical models and practical implementation.
 
@@ -38,6 +40,7 @@ I am an Industrial Engineer with a PhD in Systems Engineering, specializing in t
 *   ERP system migration/implementation support.
 
 ---
+lang: en
 
 ## Education
 
@@ -49,6 +52,7 @@ I am an Industrial Engineer with a PhD in Systems Engineering, specializing in t
     Instituto Tecnológico Superior de Perote, Mexico | 2003 – 2008
 
 ---
+lang: en
 
 ## Honors and Distinctions
 
@@ -57,6 +61,7 @@ I am an Industrial Engineer with a PhD in Systems Engineering, specializing in t
 *   **Teaching Performance Recognition** – UANL
 
 ---
+lang: en
 
 ## Professional Memberships
 
