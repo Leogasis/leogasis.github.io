@@ -1,11 +1,11 @@
 ---
+lang: es
 layout: single
 title: "Acerca de Mí"
 permalink: /es/about/
 author_profile: true
 toc: true
 toc_label: "Contenido"
-lang: es
 ---
 
 Soy Ingeniero Industrial con un Doctorado en Ingeniería de Sistemas, especializado en la aplicación de **optimización, simulación e inteligencia artificial** para resolver problemas industriales complejos. Mi carrera abarca más de 15 años en la academia y la industria, cerrando la brecha entre los modelos teóricos y la implementación práctica.

@@ -1,9 +1,9 @@
 ---
+lang: es
 layout: single
 title: "Proyectos"
 permalink: /es/projects/
 author_profile: true
-lang: es
 ---
 
 Aquí presento una selección de mi trabajo en **Optimización Industrial**, **Inteligencia Artificial** y **Simulación**. Estos proyectos demuestran la aplicación de métodos cuantitativos avanzados para resolver desafíos industriales del mundo real.

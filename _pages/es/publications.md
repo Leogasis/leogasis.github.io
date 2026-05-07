@@ -1,11 +1,11 @@
 ---
+lang: es
 layout: single
 title: "Publicaciones"
 permalink: /es/publications/
 author_profile: true
 toc: true
 toc_label: "Tipo"
-lang: es
 ---
 
 ## Artículos Selectos en Revistas

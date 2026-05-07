@@ -2,10 +2,9 @@
 lang: en
 layout: single
 title: "Contact"
-permalink: /contact/
+permalink: /en/contact/
 author_profile: true
 ---
-lang: en
 
 I am available for academic collaboration and industrial consulting opportunities.
 

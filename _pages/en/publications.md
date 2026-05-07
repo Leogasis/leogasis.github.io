@@ -2,12 +2,11 @@
 lang: en
 layout: single
 title: "Publications"
-permalink: /publications/
+permalink: /en/publications/
 author_profile: true
 toc: true
 toc_label: "Type"
 ---
-lang: en
 
 ## Selected Journal Articles
 

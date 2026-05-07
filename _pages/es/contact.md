@@ -1,9 +1,9 @@
 ---
+lang: es
 layout: single
 title: "Contacto"
 permalink: /es/contact/
 author_profile: true
-lang: es
 ---
 
 Estoy disponible para colaboraciones académicas y oportunidades de consultoría industrial.

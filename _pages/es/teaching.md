@@ -1,11 +1,11 @@
 ---
+lang: es
 layout: single
 title: "Docencia"
 permalink: /es/teaching/
 author_profile: true
 toc: true
 toc_label: "Cursos"
-lang: es
 ---
 
 Imparto una variedad de cursos a nivel posgrado y licenciatura, enfatizando la aplicación práctica de la teoría a través de estudios de caso y proyectos del mundo real.

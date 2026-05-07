@@ -1,4 +1,5 @@
 ---
+lang: es
 layout: home
 permalink: /es/
 author_profile: true
@@ -7,8 +8,8 @@ header:
   overlay_filter: 0.5
   caption: "Optimización | Analítica | IA"
 excerpt: "Ingeniero Industrial con Doctorado en Ingeniería de Sistemas y más de 15 años de experiencia en optimización, investigación de operaciones, inteligencia artificial y analítica avanzada aplicada a sistemas industriales."
-lang: es
 ---
+lang: es
 
 ## Acerca de Mí
 
@@ -21,6 +22,7 @@ Soy **Ingeniero Industrial** con un Doctorado en **Ingeniería de Sistemas** y m
 Cuento con experiencia comprobada en **investigación aplicada, docencia a nivel posgrado, liderazgo académico y consultoría industrial**, con participación en proyectos financiados, publicaciones arbitradas e iniciativas de transferencia tecnológica.
 
 ---
+lang: es
 
 ## Áreas de Especialidad
 
@@ -48,6 +50,7 @@ Cuento con experiencia comprobada en **investigación aplicada, docencia a nivel
 </div>
 
 ---
+lang: es
 
 ## Roles Actuales
 
@@ -56,5 +59,6 @@ Cuento con experiencia comprobada en **investigación aplicada, docencia a nivel
 *   **Líder** | Cuerpo Académico "Diseño y Optimización de Sistemas Productivos"
 
 ---
+lang: es
 
 [<i class="fas fa-project-diagram"></i> Ver Proyectos](/es/projects/){: .btn .btn--primary .btn--large} [<i class="fas fa-file-pdf"></i> Descargar CV](/assets/pdf/CV_Leonardo_Hernandez.pdf){: .btn .btn--info .btn--large} [<i class="fas fa-envelope"></i> Contacto](/es/contact/){: .btn .btn--success .btn--large}
