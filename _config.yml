@@ -17,6 +17,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  divulgacion:
+    output: true
+    permalink: /divulgacion/:path/
     
 defaults:
   # _pages
@@ -30,6 +33,14 @@ defaults:
   - scope:
       path: "_projects"
       type: "projects"
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
+  # _divulgacion
+  - scope:
+      path: "_divulgacion"
+      type: "divulgacion"
     values:
       layout: "single"
       author_profile: true
