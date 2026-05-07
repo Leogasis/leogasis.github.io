@@ -4,6 +4,8 @@ title: "La Inteligencia Artificial en la Vida Cotidiana: Más que Ciencia Ficci�
 excerpt: "Un análisis sobre cómo los algoritmos de optimización e IA impactan nuestras decisiones diarias, desde el GPS hasta la medicina personalizada."
 date: 2026-05-07
 ---
+![IA en la Vida Cotidiana](/assets/images/ai-lifestyle.png)
+
 
 # La Inteligencia Artificial en la Vida Cotidiana: Más que Ciencia Ficción
 
