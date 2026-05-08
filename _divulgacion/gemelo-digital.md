@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![Gemelo digital en la industria moderna](/assets/images/gemelo-digital-industria.png)
 
 ## Introducción

@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![Empresas y toma de decisiones basada en datos](/assets/images/datos-decisiones-empresas.png)
 
 ## Introducción

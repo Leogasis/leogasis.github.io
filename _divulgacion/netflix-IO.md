@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![Investigación de operaciones en plataformas digitales](/assets/images/investigacion-operaciones-plataformas.png)
 
 ## Introducción

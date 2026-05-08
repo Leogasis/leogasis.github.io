@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![VRP Map](/assets/images/vrp-map.png)
 
 Son las 5 de la mañana en el centro de distribución de una empresa de paquetería en Monterrey. Hay 12 camionetas en el patio y 340 paquetes que deben entregarse antes de las 6 de la tarde. Algunos clientes solo están disponibles en la mañana. Otros tienen restricciones de peso en su acceso. Hay zonas con tráfico pesado a ciertas horas. Y la empresa quiere gastar el menor combustible posible.

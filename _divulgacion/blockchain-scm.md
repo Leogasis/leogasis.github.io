@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![Blockchain SCM](/assets/images/blockchain-scm.png)
 
 Piensa en la última vez que compraste un medicamento, un kilo de aguacate o un par de zapatos. ¿Alguna vez te preguntaste cuántas manos tocaron ese producto antes de llegar a las tuyas? ¿Cómo sabes que el medicamento es auténtico? ¿Que el aguacate realmente viene de donde dice la etiqueta? ¿Que las condiciones de fabricación de esos zapatos fueron éticas?

@@ -18,6 +18,9 @@ header:
 
 ---
 
+<a href="{{ '/assets/pdfs/' | relative_url }}{{ page.path | split: '/' | last | replace: '.md', '.pdf' }}" class="btn btn--info"><i class="fas fa-file-pdf"></i> Descargar versión PDF</a>
+
+
 ![IA en la Vida Cotidiana](/assets/images/ai-lifestyle.png)
 
 Hoy por la mañana, antes de despertar, un algoritmo ya tomó decisiones por ti.
