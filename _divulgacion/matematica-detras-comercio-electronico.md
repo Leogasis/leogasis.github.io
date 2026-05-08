@@ -6,6 +6,7 @@ date: 2026-05-08
 header:
   overlay_image: /assets/images/ecommerce-math.png
   overlay_filter: 0.5
+  teaser: /assets/images/ecommerce-math.png
 ---
 
 # ¿Cómo llegan los productos a tu puerta? La matemática detrás del comercio electrónico

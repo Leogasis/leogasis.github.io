@@ -8,6 +8,7 @@ affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Quí
 header:
   overlay_image: /assets/images/blockchain-scm.png
   overlay_filter: 0.5
+  teaser: /assets/images/blockchain-scm.png
 ---
 
 ![Blockchain SCM](/assets/images/blockchain-scm.png)

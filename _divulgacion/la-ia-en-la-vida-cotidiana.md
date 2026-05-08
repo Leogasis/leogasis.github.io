@@ -5,6 +5,10 @@ excerpt: "Un análisis sobre cómo los algoritmos de optimización e IA impactan
 date: 2026-05-07
 author: "Leonardo Gabriel Hernández Landa"
 affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
+header:
+  overlay_image: /assets/images/ai-lifestyle.png
+  overlay_filter: 0.5
+  teaser: /assets/images/ai-lifestyle.png
 ---
 
 ![IA en la Vida Cotidiana](/assets/images/ai-lifestyle.png)

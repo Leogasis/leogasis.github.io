@@ -6,6 +6,7 @@ date: 2026-05-08
 header:
   overlay_image: /assets/images/industria-4-0-mexico.png
   overlay_filter: 0.5
+  teaser: /assets/images/industria-4-0-mexico.png
 ---
 
 # Industria 4.0 explicada sin tecnicismos: qué significa para los ingenieros mexicanos

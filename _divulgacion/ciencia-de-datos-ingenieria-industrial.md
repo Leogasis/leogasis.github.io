@@ -6,6 +6,7 @@ date: 2026-05-08
 header:
   overlay_image: /assets/images/data-science-industrial.png
   overlay_filter: 0.5
+  teaser: /assets/images/data-science-industrial.png
 ---
 
 # Ciencia de datos aplicada a problemas reales de ingeniería industrial

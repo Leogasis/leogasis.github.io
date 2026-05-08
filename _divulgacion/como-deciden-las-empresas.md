@@ -8,6 +8,7 @@ affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Quí
 header:
   overlay_image: /assets/images/vrp-map.png
   overlay_filter: 0.5
+  teaser: /assets/images/vrp-map.png
 ---
 
 ![VRP Map](/assets/images/vrp-map.png)
