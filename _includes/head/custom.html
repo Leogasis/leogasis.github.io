@@ -14,50 +14,56 @@
     position: absolute;
     top: 100%;
     left: 0;
-    z-index: 100;
-    min-width: 160px;
-    padding: 0.5rem 0;
+    z-index: 1000;
+    min-width: 180px;
+    padding: 10px 0;
     margin: 0;
     list-style: none;
     background-color: #fff;
-    background-clip: padding-box;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: 0.25rem;
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.175);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
 
-  .masthead__menu-item.dropdown:hover .dropdown-menu {
-    display: block;
+  /* Show on hover for desktop */
+  @media (min-width: 64em) {
+    .masthead__menu-item.dropdown:hover .dropdown-menu {
+      display: block !important;
+    }
   }
 
-  .dropdown-menu .masthead__menu-item {
-    display: block;
-    width: 100%;
-    padding: 0.25rem 1rem;
-    margin: 0;
+  /* Show when active class added via JS */
+  .masthead__menu-item.dropdown.is-open .dropdown-menu {
+    display: block !important;
   }
 
-  .dropdown-menu .masthead__menu-item a {
+  .dropdown-menu li {
     display: block;
-    padding: 0.25rem 0;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .dropdown-menu a {
+    display: block;
+    padding: 8px 20px;
     color: #333 !important;
-    text-decoration: none;
+    text-decoration: none !important;
     border-bottom: none !important;
+    font-size: 0.9em;
   }
 
-  .dropdown-menu .masthead__menu-item a:hover {
+  .dropdown-menu a:hover {
+    background-color: #f0f0f0;
     color: #000 !important;
-    background-color: #f8f9fa;
   }
 
-  /* Mobile adjustments for the greedy nav hidden links */
+  /* Mobile/Hidden Links compatibility */
   .hidden-links .dropdown-menu {
+    display: block !important;
     position: static;
-    display: block;
     box-shadow: none;
     border: none;
-    padding-left: 1rem;
-    background: transparent;
+    padding-left: 15px;
   }
   
   .hidden-links .dropdown-toggle {
@@ -65,3 +71,29 @@
     pointer-events: none;
   }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var toggles = document.querySelectorAll('.dropdown-toggle');
+    toggles.forEach(function(toggle) {
+      toggle.addEventListener('click', function(e) {
+        // Only toggle on click if we are on a smaller screen or if it's a mobile menu
+        if (window.innerWidth < 1024 || this.closest('.hidden-links')) {
+          e.preventDefault();
+          e.stopPropagation();
+          var parent = this.parentElement;
+          parent.classList.toggle('is-open');
+        }
+      });
+    });
+
+    // Close on outside click
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.dropdown')) {
+        document.querySelectorAll('.masthead__menu-item.dropdown').forEach(function(d) {
+          d.classList.remove('is-open');
+        });
+      }
+    });
+  });
+</script>
