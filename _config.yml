@@ -2,6 +2,8 @@ title: Leonardo G. Hernández
 description: Industrial Engineer | Optimization, Analytics and AI
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: air
+logo: "/assets/images/favicon.png"
+teaser: "/assets/images/favicon.png"
 
 locale: "en-US"
 url: "https://leogasis.github.io" # Verify this is the correct base URL
