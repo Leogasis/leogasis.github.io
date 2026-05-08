@@ -2,11 +2,20 @@
 lang: es
 title: "Industria 4.0 explicada sin tecnicismos"
 excerpt: "Qué significa la cuarta revolución industrial para los ingenieros mexicanos y cómo prepararse para el cambio."
-date: 2026-05-08
+date: 2025-02-10
+author: "Leonardo Gabriel Hernández Landa"
+affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/industria-4-0-mexico.png
   overlay_filter: 0.5
   teaser: /assets/images/industria-4-0-mexico.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Febrero 2025
+
 ---
 
 # Industria 4.0 explicada sin tecnicismos: qué significa para los ingenieros mexicanos
@@ -110,6 +119,15 @@ La Industria 4.0 no es el futuro, ya es el presente. Para los ingenieros mexican
 
 ---
 
-*Este artículo es parte de una serie de divulgación científica sobre tecnología e ingeniería para el público general.*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*

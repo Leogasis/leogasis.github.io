@@ -2,11 +2,20 @@
 lang: es
 title: "¿Cómo llegan los productos a tu puerta? La matemática del e-commerce"
 excerpt: "La increíble coordinación logística y los algoritmos de ruteo que hacen posible la entrega en menos de 24 horas."
-date: 2026-05-08
+date: 2025-09-12
+author: "Leonardo Gabriel Hernández Landa"
+affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/ecommerce-math.png
   overlay_filter: 0.5
   teaser: /assets/images/ecommerce-math.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Septiembre 2025
+
 ---
 
 # ¿Cómo llegan los productos a tu puerta? La matemática detrás del comercio electrónico
@@ -126,6 +135,15 @@ Entender estos procesos nos permite valorar mejor la ciencia detrás de las cosa
 
 ---
 
-*Este artículo es parte de una serie de divulgación científica sobre tecnología e ingeniería para el público general.*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*

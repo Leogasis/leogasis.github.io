@@ -2,11 +2,20 @@
 lang: es
 title: "Ciencia de datos aplicada a problemas reales de ingeniería industrial"
 excerpt: "Cómo los algoritmos y la analítica están transformando fábricas, hospitales y logística en la era moderna."
-date: 2026-05-08
+date: 2025-06-20
+author: "Leonardo Gabriel Hernández Landa"
+affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/data-science-industrial.png
   overlay_filter: 0.5
   teaser: /assets/images/data-science-industrial.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Junio 2025
+
 ---
 
 # Ciencia de datos aplicada a problemas reales de ingeniería industrial
@@ -133,6 +142,15 @@ El ingeniero del futuro no necesita ser programador, pero sí necesita entender 
 
 ---
 
-*Este artículo es parte de una serie de divulgación científica sobre tecnología e ingeniería para el público general.*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*

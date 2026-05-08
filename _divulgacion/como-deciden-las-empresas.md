@@ -2,13 +2,20 @@
 lang: es
 title: "¿Cómo decide una empresa a dónde enviar sus camiones?"
 excerpt: "Una inmersión profunda en el Vehicle Routing Problem (VRP), el rompecabezas matemático que ahorra millones de galones de combustible."
-date: 2026-05-07
+date: 2024-11-05
 author: "Leonardo Gabriel Hernández Landa"
 affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/vrp-map.png
   overlay_filter: 0.5
   teaser: /assets/images/vrp-map.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Noviembre 2024
+
 ---
 
 ![VRP Map](/assets/images/vrp-map.png)
@@ -166,6 +173,15 @@ La próxima vez que veas una camioneta de repartos recorriendo tu calle, recuerd
 
 ---
 
-*Este artículo forma parte de la línea de investigación en Optimización Logística y Accesibilidad del Dr. Leonardo Gabriel Hernández Landa (UANL).*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*

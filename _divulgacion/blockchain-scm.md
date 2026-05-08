@@ -2,13 +2,20 @@
 lang: es
 title: "Blockchain en la Cadena de Suministro"
 excerpt: "Del abastecimiento tradicional a una arquitectura de confianza inmutable para la gestión logística del siglo XXI."
-date: 2026-05-07
+date: 2024-07-22
 author: "Leonardo Gabriel Hernández Landa"
 affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/blockchain-scm.png
   overlay_filter: 0.5
   teaser: /assets/images/blockchain-scm.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Julio 2024
+
 ---
 
 ![Blockchain SCM](/assets/images/blockchain-scm.png)
@@ -123,6 +130,15 @@ Eso es exactamente lo que la ingeniería industrial lleva décadas intentando ha
 
 ---
 
-*Este artículo forma parte de la línea de investigación en Tecnologías Emergentes y Optimización Logística del Dr. Leonardo Gabriel Hernández Landa (UANL).*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*

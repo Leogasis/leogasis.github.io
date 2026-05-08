@@ -2,13 +2,20 @@
 lang: es
 title: "La Inteligencia Artificial en la Vida Cotidiana: Más que Ciencia Ficción"
 excerpt: "Un análisis sobre cómo los algoritmos de optimización e IA impactan nuestras decisiones diarias, desde el GPS hasta la medicina personalizada."
-date: 2026-05-07
+date: 2024-03-15
 author: "Leonardo Gabriel Hernández Landa"
 affiliation: "Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas"
 header:
   overlay_image: /assets/images/ai-lifestyle.png
   overlay_filter: 0.5
   teaser: /assets/images/ai-lifestyle.png
+---
+
+> **Por:** **Dr. Leonardo Gabriel Hernández Landa**  
+> <i class="fas fa-university"></i> Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León  
+> <i class="fas fa-microchip"></i> Línea de investigación: *Optimización, Inteligencia Artificial y Logística*  
+> <i class="far fa-calendar-alt"></i> Publicado originalmente: Marzo 2024
+
 ---
 
 ![IA en la Vida Cotidiana](/assets/images/ai-lifestyle.png)
@@ -179,6 +186,15 @@ Entender la IA, aunque sea en términos generales, es el primer paso para partic
 
 ---
 
-*Este artículo forma parte de la línea de investigación en Inteligencia Artificial aplicada a la Ingeniería del Dr. Leonardo Gabriel Hernández Landa (UANL).*  
-*Contenido de acceso libre y gratuito.*  
+**¿Te resultó útil este contenido?**  
+Si este artículo te sirvió para tu investigación o curiosidad personal, puedes citarlo de la siguiente manera:
+
+> [!TIP]
+> **Formato de cita APA:**  
+> Hernández Landa, L. G. ({{ page.date | date: "%Y" }}). *{{ page.title }}*. Divulgación Científica - Leogasis Académico. Recuperado de [https://leogasis.github.io{{ page.url }}](https://leogasis.github.io{{ page.url }})
+
+---
+*Este contenido es de acceso abierto bajo licencia Creative Commons. Se permite su uso citando debidamente al autor.*
+
+---
 *Contacto: leonardo.hernandezln@uanl.edu.mx*
