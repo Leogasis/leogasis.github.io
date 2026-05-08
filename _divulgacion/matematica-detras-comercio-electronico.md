@@ -20,10 +20,6 @@ header:
 
 # ¿Cómo llegan los productos a tu puerta? La matemática detrás del comercio electrónico
 
-**Autor:** Leonardo Gabriel Hernández Landa  
-**Adscripción:** Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas  
-**Fecha:** Mayo 2026  
-**Área:** Ingeniería Industrial | Divulgación científica
 
 ---
 

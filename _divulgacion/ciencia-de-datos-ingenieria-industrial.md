@@ -20,11 +20,6 @@ header:
 
 # Ciencia de datos aplicada a problemas reales de ingeniería industrial
 
-**Autor:** Leonardo Gabriel Hernández Landa  
-**Adscripción:** Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas  
-**Fecha:** Mayo 2026  
-**Área:** Ingeniería Industrial | Divulgación científica
-
 ---
 
 Cuando escuchas "ciencia de datos" probablemente piensas en pantallas llenas de números, algoritmos complicados y científicos frente a computadoras poderosas. Pero la realidad es que la ciencia de datos ya está resolviendo problemas muy concretos en fábricas, hospitales, supermercados y empresas de transporte, muchos de ellos en México.

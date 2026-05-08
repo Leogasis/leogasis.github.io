@@ -20,11 +20,6 @@ header:
 
 # Industria 4.0 explicada sin tecnicismos: qué significa para los ingenieros mexicanos
 
-**Autor:** Leonardo Gabriel Hernández Landa  
-**Adscripción:** Universidad Autónoma de Nuevo León – Facultad de Ciencias Químicas  
-**Fecha:** Mayo 2026  
-**Área:** Ingeniería Industrial | Divulgación científica
-
 ---
 
 Seguramente has escuchado el término **Industria 4.0** en las noticias, en la universidad o en el trabajo. Pero ¿qué significa realmente? ¿Es solo una moda tecnológica o algo que ya está cambiando la forma en que los ingenieros mexicanos trabajan todos los días?
