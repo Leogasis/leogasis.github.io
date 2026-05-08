@@ -3,13 +3,15 @@ main:
     url: /
   - title: "Acerca de Mí"
     url: /about/
-  - title: "Proyectos"
-    url: /projects/
-  - title: "Docencia"
-    url: /teaching/
+  - title: "Trayectoria"
+    children:
+      - title: "Proyectos"
+        url: /projects/
+      - title: "Docencia"
+        url: /teaching/
+      - title: "Divulgación"
+        url: /divulgacion/
   - title: "Publicaciones"
     url: /publications/
-  - title: "Divulgación"
-    url: /divulgacion/
   - title: "Contacto"
     url: /contact/

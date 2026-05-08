@@ -2,3 +2,66 @@
 <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}" sizes="32x32">
 <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+
+<style>
+  /* Navigation Dropdown Styles */
+  .masthead__menu-item.dropdown {
+    position: relative;
+  }
+
+  .masthead__menu-item .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    min-width: 160px;
+    padding: 0.5rem 0;
+    margin: 0;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.175);
+  }
+
+  .masthead__menu-item.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  .dropdown-menu .masthead__menu-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1rem;
+    margin: 0;
+  }
+
+  .dropdown-menu .masthead__menu-item a {
+    display: block;
+    padding: 0.25rem 0;
+    color: #333 !important;
+    text-decoration: none;
+    border-bottom: none !important;
+  }
+
+  .dropdown-menu .masthead__menu-item a:hover {
+    color: #000 !important;
+    background-color: #f8f9fa;
+  }
+
+  /* Mobile adjustments for the greedy nav hidden links */
+  .hidden-links .dropdown-menu {
+    position: static;
+    display: block;
+    box-shadow: none;
+    border: none;
+    padding-left: 1rem;
+    background: transparent;
+  }
+  
+  .hidden-links .dropdown-toggle {
+    font-weight: bold;
+    pointer-events: none;
+  }
+</style>
