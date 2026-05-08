@@ -5,6 +5,7 @@ minimal_mistakes_skin: air
 
 locale: "en-US"
 url: "https://leogasis.github.io" # Verify this is the correct base URL
+google_site_verification: "6udQO695ZYhUUEPBvxvboDUEVlm5Caw2nwtmZDZ4V2o"
 
 plugins:
   - jekyll-feed
